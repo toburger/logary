@@ -96,8 +96,6 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Logary.IntegrationTests", "
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Logary.Targets.Logstash", "targets\Logary.Targets.Logstash\Logary.Targets.Logstash.fsproj", "{F9AAC195-D3F7-4160-A829-5F9775791AD5}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Logary.Targets.AzureApplicationInsights", "targets\Logary.Targets.AzureApplicationInsights\Logary.Targets.AzureApplicationInsights.fsproj", "{82ECD34E-7FE9-436E-B570-531D174F40CB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -240,10 +238,6 @@ Global
 		{F9AAC195-D3F7-4160-A829-5F9775791AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9AAC195-D3F7-4160-A829-5F9775791AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9AAC195-D3F7-4160-A829-5F9775791AD5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{82ECD34E-7FE9-436E-B570-531D174F40CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82ECD34E-7FE9-436E-B570-531D174F40CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82ECD34E-7FE9-436E-B570-531D174F40CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82ECD34E-7FE9-436E-B570-531D174F40CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -283,6 +277,5 @@ Global
 		{F7E5B6E8-5D55-4974-9CA7-4C94D810631F} = {EA09AD42-B4E2-4B0D-8960-E87277F46F04}
 		{647FB507-A552-4537-AA2C-E2274A3245EB} = {4755795D-4488-4013-81FC-9FD5D442B211}
 		{F9AAC195-D3F7-4160-A829-5F9775791AD5} = {978EDEA3-ABF9-4EC9-A864-1D425E18CFE6}
-		{82ECD34E-7FE9-436E-B570-531D174F40CB} = {978EDEA3-ABF9-4EC9-A864-1D425E18CFE6}
 	EndGlobalSection
 EndGlobal

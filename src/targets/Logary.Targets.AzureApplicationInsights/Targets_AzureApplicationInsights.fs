@@ -1,1 +1,1 @@
-﻿namespace Logary.Targets.AzureApplicationInsights
+﻿module Logary.Targets.AzureApplicationInsights

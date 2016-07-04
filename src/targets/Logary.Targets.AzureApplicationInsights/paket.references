@@ -1,1 +1,4 @@
-﻿Microsoft.ApplicationInsights
+﻿FSharp.Core
+NodaTime
+Hopac
+Microsoft.ApplicationInsights
