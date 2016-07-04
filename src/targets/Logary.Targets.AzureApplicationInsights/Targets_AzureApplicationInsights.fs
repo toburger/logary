@@ -1,0 +1,1 @@
+﻿namespace Logary.Targets.AzureApplicationInsights
